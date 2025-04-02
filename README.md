@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://i.imgur.com/9oR2sMc.png" alt="Project Banner">
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/hdDj4aZTVf">
+    <img src="https://img.shields.io/badge/Chat-Join%20us%20on%20Discord-7289da?logo=discord&logoColor=white" alt="Join us on Discord">
+  </a>
+  <img src="https://img.shields.io/github/downloads/amcgready/timber/total" alt="GitHub all releases">
+</p>
 # 📋 Log Submission Tool
 
 A lightweight utility that automatically submits the most recent log file from your project as a GitHub issue. Perfect for capturing and tracking application errors with minimal effort.
